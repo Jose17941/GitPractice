@@ -8,6 +8,9 @@ public class sample {
 		System.out.println("Developer 2 updated the application");
 		System.out.println("Registration Feature Started");
 
+		System.out.println("New Changes in Git");
+
+
 	}
 
 }
